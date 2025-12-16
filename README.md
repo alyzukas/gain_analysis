@@ -26,7 +26,7 @@ interested in answering the following questions:
 1. Click the **Open in Colab** badge below, or  
 2. Download the `.ipynb` and open in Colab manually.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1UX6xXixKirhUbRy2xcQqpOwBOpC45K64#scrollTo=uleS3xuDbX9h)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wdd3cP-pHobzpsajhRchFd7yzk6Jw3q0)
 
 Please view the fficial **Google Powerpoint** presentation [here](https://docs.google.com/presentation/d/1Do5by0lCA2sLWvQLXe2H-ksfYlGbO42FtPqSB27LKEE/edit0). 
 
@@ -51,7 +51,6 @@ Please view the fficial **Google Powerpoint** presentation [here](https://docs.g
 This project utilizes 2 main data sets from the **‘nycflights13’ R Package**:
 
 - **Airports**: Contains details about each airport, like the faa code, name, altitude, latitude/longitude, altitude(ft), timezone, and daylight-saving indicators .
-- 
 - **Flights**: Contains details about the United Airlines flights in and out of NYC for the year of 2013, such as the airline and carrier names, airport information, plane identification codes, and weather origin.   
 
 ---
