@@ -28,7 +28,7 @@ interested in answering the following questions:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Wdd3cP-pHobzpsajhRchFd7yzk6Jw3q0)
 
-Please view the fficial **Google Powerpoint** presentation [here](https://docs.google.com/presentation/d/1Do5by0lCA2sLWvQLXe2H-ksfYlGbO42FtPqSB27LKEE/edit0). 
+Please view the official **Google Powerpoint** presentation [here](https://docs.google.com/presentation/d/1Do5by0lCA2sLWvQLXe2H-ksfYlGbO42FtPqSB27LKEE/edit0). 
 
 ---
 
