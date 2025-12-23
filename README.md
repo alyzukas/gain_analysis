@@ -38,7 +38,6 @@ Please view the official **Google Powerpoint** presentation [here](https://docs.
 ├── 'gain_per_flight_analysis.ipynb'          # Google Colab Notebook and R script
 ├── 'gain_analysis_report                     # Generated reports and visualizations
 ├── 'gain_analysis_presentation               # Presentation slides for communicating results
-├── requirements.txt                          # Dependencies
 └── README.md                                 # Project documentation
 ```
 
